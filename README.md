@@ -36,9 +36,11 @@ python QReLU/qrelu_test.py
 
 ## Visualization
 ### Classical vs. Quantum Results
-Classical to Qunatum:
+
+1. Classical to Qunatum:
 ![image](https://github.com/user-attachments/assets/e386cfcc-1845-4ed0-b28a-8f82b65ee856)
-Classical to Classical:
+
+2. Classical to Classical:
 ![image](https://github.com/user-attachments/assets/16035a0c-87d2-4d41-b74a-256d1ee5fad0)
 
 ## Contributing
